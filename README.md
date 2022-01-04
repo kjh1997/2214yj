@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Q. Who am ...⁉️
 <!--
 **2214yj/2214yj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### A. 👩‍💻**김예지**
+
+> 🎓 숭실대학교 소프트웨어학부  
+✉️ 2214yjgm@gmail.com  
+📞 010-2351-9379  
+🖥️ 백엔드 개발자  
+🏡 경기도 의왕시  
+🙇 INFP 
+  
+
+   
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2214yj&show_icons=true&theme=buefy)
