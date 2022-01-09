@@ -16,13 +16,15 @@
 ### Q. Who am ...⁉️
 
 ### A. 👩‍💻**김예지**
+매일 성장 중인 병아리 백엔드 개발자 입니다.🐣🐣
 
 > 🎓 숭실대학교  
 ✉️ 2214yjgm@gmail.com  
 📞 010-2351-9379  
 🖥️ 백엔드 개발자   
   
-
+  
+<br></br>
    
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2214yj&show_icons=true&theme=buefy)
