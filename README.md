@@ -31,7 +31,7 @@
 
 ### MY PROJECT 🖥️
 
-#### 컨파머 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
+#### <a href = "https://github.com/Corn-Farmer/CornFarmer-Server"> 컨파머 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
 
 >키워드 기반의 OTT 추천 서비스 입니다. 
 
