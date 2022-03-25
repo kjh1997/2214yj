@@ -31,27 +31,27 @@
 
 ### MY PROJECT 🖥️
 
-#### <a href = "https://github.com/Corn-Farmer/CornFarmer-Server"> 컨파머 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
+#### <a href = "https://github.com/Corn-Farmer/CornFarmer-Server">:link:</a> 컨파머 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
 
 >키워드 기반의 OTT 추천 서비스 입니다. 
 
-#### 연지곤지 프로젝트 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
+#### <a href = "https://github.com/TeamJEJU/yeonjigonji_backend">:link:</a> 연지곤지 프로젝트 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
 
 >인공지능과 색상 기반의 립 제품 검색 웹 서비스 입니다.
 
-#### 당근 마켓 클론 코딩 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
+#### <a href = "https://github.com/2214yj/UMC-carrot-market-clone-coding">:link:</a> 당근 마켓 클론 코딩 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
 
 >UMC 7주차 과제로 당근마켓 API 20개를 클론 코딩한 Spring 프로젝트입니다.
 
-#### 오픈스터디 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
+#### <a href = "https://github.com/HamInKyou/openstudy">:link:</a> 오픈스터디 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
 
 >Node.js 백엔드 개발자로 참여한 공부 커뮤니티 웹사이트 입니다.
 
-#### Food-translation <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
+#### <a href = "https://github.com/2214yj/FOOD-translation">:link:</a> Food-translation <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 
 >Node.js 백엔드 개발자로 참여한 한국어 메뉴판 번역 웹 사이트 입니다.
 
-#### HANGAROUND <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a> 
+#### <a href = "https://github.com/HangAround/HangAround-Back">:link:</a> HANGAROUND <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a> 
 >아이스브레이킹을 위한 화상 웹 서비스 입니다. 아직 구현 중...
   
   
