@@ -52,7 +52,7 @@
 >한국어 메뉴판 번역 웹 사이트 입니다.
 
 #### <a href = "https://github.com/HangAround/HangAround-Back">:link:</a> HANGAROUND <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a> 
->아이스브레이킹을 위한 화상 웹 서비스 입니다. 아직 구현 중...
+>아이스브레이킹을 위한 웹 화상 서비스 입니다. 아직 구현 중...
   
   
 <br></br>
