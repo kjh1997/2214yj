@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=8e72dc&height=200&section=header&text=&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=41b883&height=200&section=header&text=&fontSize=90)
 <br><h3 align="center"><b>🛠 Tech Stack 🛠</b></h3></br>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> &nbsp    
@@ -58,6 +58,6 @@
 <br></br>
    
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2214yj&show_icons=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2214yj&show_icons=true&theme=vue)
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=e4ddf7&height=200&section=footer&text=&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=dcefe5&height=200&section=footer&text=&fontSize=90)
