@@ -7,9 +7,14 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> &nbsp<br>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/> <br> 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> &nbsp 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp <br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/REDIS-DC382D?style=flat-square&logo=Redis&logoColor=white"/> &nbsp 
+  <img src="https://img.shields.io/badge/ELASTICSEARCH-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/> 
+  <br>
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=Docker&logoColor=white"> &nbsp
+ <img src="https://img.shields.io/badge/KUBERNETES-326CE5?flat-square&logo=kubernetes&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 
@@ -29,6 +34,9 @@
 <br> </br>
 
 ### MY PROJECT 🖥️
+#### <a href = "https://github.com/kakao-shop/soup-backend">:link:</a> SouP <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/KUBERNETES-326CE5?flat-square&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>  
+>Spring Boot 백엔드 개발자로 참여한 다양한 쇼핑몰의 식품 특가 정보를 30분 주기 로 업데이트하여 한눈에 보여주는 클라우드 네이티브 웹 서비스 입니다.  
+
 #### <a href = "https://github.com/HangAround/HangAround-Back">:link:</a> HANGAROUND <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a> 
 >Node.js 백엔드 개발자로 참여한 아이스브레이킹을 위한 웹 화상 서비스 입니다. 
 
